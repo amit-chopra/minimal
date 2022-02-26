@@ -14,13 +14,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This project detected facial keypoints that were used to detect faces in images. Tech stack included pytorch and OpenCV
 
-## Header 2
+# Text Summarization 
 
-> This is a blockquote following a header.
+Developed a text summarizer using NLTK and Tensorflow
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
