@@ -1,20 +1,11 @@
----
-layout: default
----
+# AI & Machine Learning Project Portfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Facial Keypoint Detection
+## Facial Keypoint Detection
 
 This project detected facial keypoints that were used to detect faces in images. Tech stack included pytorch and OpenCV
 
-# Text Summarization 
+## Text Summarization 
 
 Developed a text summarizer using NLTK and Tensorflow
 >
