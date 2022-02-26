@@ -7,4 +7,4 @@ This project detected facial keypoints that were used to detect faces in images.
 
 ## Text Summarization 
 
-Developed a text summarizer using NLTK and Tensorflow
+Developed a text summarizer using NLTK and Google Tensorflow
