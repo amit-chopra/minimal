@@ -1,4 +1,4 @@
-# AI & Machine Learning Project Portfolio
+# AI & Machine Learning Projects
 
 
 ## Facial Keypoint Detection
